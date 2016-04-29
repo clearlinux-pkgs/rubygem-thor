@@ -1,6 +1,6 @@
 Name     : rubygem-thor
 Version  : 0.19.1
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/thor-0.19.1.gem
 Source0  : https://rubygems.org/downloads/thor-0.19.1.gem
 Summary  : No detailed summary available
